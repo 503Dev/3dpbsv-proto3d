@@ -36,7 +36,7 @@ function CustomModel({ model }: CustomModelProps) {
     case 'fbx':
       console.log('fbx');
       break;
-    case 'gcode':
+    case 'gcode': // todo: #3 add gcode import support via loader
       console.log('gcode');
       break;
     default:

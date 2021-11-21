@@ -36,12 +36,12 @@ function EditorHeaderControllersRightSide() {
               icon={<ClearOutlined />}
               onClick={handleClearCanvas}
             >
-              Clear
+              Limpiar
             </Menu.Item>
           </Menu>
         }
       >
-        <DownloadOutlined /> Download
+        <DownloadOutlined /> Captura
       </Dropdown.Button>
       <Logo />
     </Space>

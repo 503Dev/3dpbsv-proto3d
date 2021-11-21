@@ -1,6 +1,6 @@
 {
-  "name": "proto3d",
-  "version": "0.1.0",
+  "name": "3dpsv-proto3d",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^4.3.0",
